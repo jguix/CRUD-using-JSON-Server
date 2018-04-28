@@ -2,12 +2,12 @@
 command to run the server : npm start
 
 The following HTTP endpoints are created automatically by JSON server:
-GET    /employees
-GET    /employees/{id}
-POST   /employees
-PUT    /employees/{id}
-PATCH  /employees/{id}
-DELETE /employees/{id}
+* GET    /employees
+* GET    /employees/{id}
+* POST   /employees
+* PUT    /employees/{id}
+* PATCH  /employees/{id}
+* DELETE /employees/{id}
 
 If you make POST, PUT, PATCH or DELETE requests, changes will be automatically saved to db.json. A POST, PUT or PATCH request should include a "Content-Type: application/json" header to use the JSON in the request body. Otherwise it will result in a 200 OK but without changes being made to the data.
 
