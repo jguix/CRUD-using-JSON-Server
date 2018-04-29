@@ -16,7 +16,7 @@ if you need a larger amount of data the manual way can be cumbersome. An easy so
 npm install faker
 read more on :https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d 
 
-
+[Using middlewares](https://github.com/typicode/json-server/issues/453) 
 
 
 
